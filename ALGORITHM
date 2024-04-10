@@ -1,0 +1,7 @@
+<!--pseudocode for maximum for 3 numbers
+
+start
+input= A,B,C
+compare A and B
+IF A>B
+Print
